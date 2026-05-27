@@ -48,20 +48,20 @@ Contiene:
 Descargar o clonar el repositorio:
 - git clone URL_DEL_REPOSITORIO
 - Instalar dependencias:
-pip install -r pillow
+- pip install -r pillow
 Ejecutar Backend:
-python Backend/main.py
-Ejecutar la aplicación:
-python main.py
-Abrir Power BI desde el botón "Abrir Dashboard"
-Funcionalidades principales
-✔ Registrar envíos
-✔ Ver registros
-✔ Actualizar información
-✔ Eliminar registros
-✔ Clasificar paquetes automáticamente
-✔ Calcular costos
-✔ Dashboard analítico conectado a SQLite
+- python Backend/main.py
+- Ejecutar la aplicación:
+- python main.py
+- Abrir Power BI desde el botón "Abrir Dashboard"
+- Funcionalidades principales
+- Registrar envíos
+- Ver registros
+- Actualizar información
+- Eliminar registros
+- Clasificar paquetes automáticamente
+- Calcular costos
+- Dashboard analítico conectado a SQLite
 Grupo 11
 Paula Andrea Arciniegas Cárdenas
 Isabella Carranza Tapiero
